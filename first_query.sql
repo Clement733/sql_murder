@@ -1,7 +1,5 @@
 -- SQL file
 
-.open murder.db
-
 SELECT name
-  FROM sqlite_master
- where type = 'table'
+FROM sqlite_master
+WHERE type = 'table'
