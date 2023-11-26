@@ -31,4 +31,4 @@ POTENTIAL COMMENDITOR:
 (seventh query) 24556
 (seventh query) 99716
 (eigth and final query)
-99716	Miranda Priestly	202298	1883	Golden Ave	987756388
+99716	Miranda Priestly	202298	1883	Golden Ave	987756388.
