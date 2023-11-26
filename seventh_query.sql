@@ -1,4 +1,4 @@
---SQLite
+-- SQL file
 
 SELECT *
 FROM facebook_event_checkin

@@ -1,4 +1,4 @@
---SQLite
+-- SQL file
 
 SELECT get_fit_now_check_in.membership_id, get_fit_now_member.person_id, get_fit_now_check_in.check_in_date, get_fit_now_member.name, get_fit_now_member.membership_status
 FROM get_fit_now_member

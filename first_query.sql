@@ -1,4 +1,5 @@
--- SQLite
+-- SQL file
+
 .open murder.db
 
 SELECT name
